@@ -238,7 +238,7 @@ O desenvolvimento baseado em tronco é hoje em dia o padrão para equipes de eng
 
 ### Autor
 
-> Made with 💙 by Victor Amaro 👋 <a href="https://www.linkedin.com/in/dev-vprazeres" target="_blank">See my LinkedIn</a> • GitHub <a href="https://github.com/VictorPrazeres" target="_blank"></a>
+> Made by Victor Amaro 👋 <a href="https://www.linkedin.com/in/dev-vprazeres" target="_blank">See my LinkedIn</a> • GitHub <a href="https://github.com/VictorPrazeres" target="_blank">@VictorPrazeres</a>
 
 <p align="center">
 <sub><a href="#top" align="center">↑ voltar para o topo ↑</a></sub>
